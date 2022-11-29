@@ -1,0 +1,24 @@
+.btn{
+    background-color: var(--ion-color-Inter-tint);
+    color: white;
+    padding: 20px 30px 20px 30px;
+    border-radius: 10px;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.imga{
+    padding: 20px 30px 20px 30px;
+    border-radius: 10px;
+    font-size: 15px;
+    margin: 20px;
+}
+
+#Container{
+    text-align: center;
+    position: relative;
+    left: 20px;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}

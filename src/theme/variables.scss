@@ -74,9 +74,17 @@
   --ion-color-light-contrast-rgb: 0, 0, 0;
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
+
+    /** Inter **/
+    --ion-color-Inter: #2A558C;
+    --ion-color-Inter-rgb: 244, 245, 248;
+    --ion-color-Inter-contrast: #1B3659;
+    --ion-color-Inter-contrast-rgb: 0, 0, 0;
+    --ion-color-Inter-shade: #275D8C;
+    --ion-color-Inter-tint: #F25D27;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   /*
    * Dark Colors
    * -------------------------------------------
